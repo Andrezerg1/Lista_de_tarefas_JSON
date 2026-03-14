@@ -1,6 +1,6 @@
 # 📋 Lista de Tarefas com Desfazer e Refazer
 
-Uma aplicação simples desenvolvida em Python para gerenciamento de tarefas via terminal.
+## Uma aplicação simples desenvolvida em Python para gerenciamento de tarefas via terminal.
 O programa permite adicionar tarefas, listar tarefas, desfazer e refazer ações, além de salvar automaticamente os dados em um arquivo JSON.
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de programação e manipulação de arquivos em Python.
