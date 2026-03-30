@@ -13,7 +13,6 @@ Funcionalidades:
  - Refazer ação desfeita
  - Persistência de dados em JSON
 
-
 Tecnologias utilizadas:
 
  - Python 3
